@@ -14,7 +14,7 @@
 
 框架：
 
-![image-20240522111903594](C:\Users\16579\AppData\Roaming\Typora\typora-user-images\image-20240522111903594.png)
+![屏幕截图 2024-05-22 111827](C:\Users\16579\Desktop\屏幕截图 2024-05-22 111827.png)
 
 ### 一、顺序表
 
